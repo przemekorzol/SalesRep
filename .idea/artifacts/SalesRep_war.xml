@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SalesRep:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="SalesRep-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="SalesRep:war exploded" />
+    </root>
+  </artifact>
+</component>
